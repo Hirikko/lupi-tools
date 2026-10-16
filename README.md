@@ -47,10 +47,10 @@ No início do seu `main.lua`, você precisa importar todos eles para carregar as
 
 ```lua
 -- Carregando os adaptadores de compatibilidade do Lupi para o Lupinho
-local BTN = require("btn")
-local Input = require("ui-adapter")
-local Palette = require("palt-hex-compat")
-require("lupinho-compat")
+require "palt-hex-compat"
+require "lupinho-compat"
+require "ui-adapter"
+require "btn"
 ```
 
 Pronto! Agora é testar no Lupinho e ver o que rola. Bom projeto e bom código! ⚡
