@@ -28,7 +28,7 @@ Aqui está o resumo direto do que cada um desses quatro arquivos faz no seu proj
 
 Olha, **não dá para garantir que vai rodar 100% de cara em qualquer projeto**. 
 
-Cada desenvolvedor tem um estilo único de codar, usa estruturas diferentes e acaba chamando funções de um jeito próprio. Nos nossos testes práticos com **15 jogos diferentes**:
+Cada desenvolvedor tem um estilo único de codar, usa estruturas diferentes e acaba chamando funções de um jeito próprio. Nos nossos testes práticos com **18 jogos diferentes**:
 * Cerca de **13 jogos funcionaram de primeira** só com os adaptadores.
 * Alguns exigiram **pequenos ajustes no código** para encaixar nas funções.
 * E alguns poucos **nem chegaram a abrir** (pedindo refatorações maiores).
